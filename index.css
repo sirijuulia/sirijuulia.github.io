@@ -16,8 +16,12 @@
   
   a {
     text-decoration: none;
+    color:orange;
   }
-  
+
+.navigation a {
+    color: white;
+}
 
 body {
     margin: 0;
@@ -74,10 +78,6 @@ h2 {
 
 h3 {
     margin: 5px 0;
-}
-
-a {
-    color:orange;
 }
 
 a:visited{
